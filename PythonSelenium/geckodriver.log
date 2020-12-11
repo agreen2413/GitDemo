@@ -1,0 +1,225 @@
+1601649635616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofiletZmXKO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601649638834	Marionette	INFO	Listening on port 52236
+1601649639236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601649660776	Marionette	INFO	Stopped listening on port 52236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 344, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1602167215971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileqNWZG1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167224931	Marionette	INFO	Listening on port 62677
+1602167225258	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602167242250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602167405818	Marionette	INFO	Stopped listening on port 62677
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileUAzeeU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167392758	Marionette	INFO	Listening on port 62876
+1602167393175	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602167403775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileQmj3z9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167410580	Marionette	INFO	Listening on port 62958
+1602167411069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602167697406	Marionette	INFO	Stopped listening on port 62958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167525929	Marionette	INFO	Listening on port 63167
+1602167526235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1602167537513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602167697290	Marionette	INFO	Stopped listening on port 63167
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofilea4zTJH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167589466	Marionette	INFO	Listening on port 63308
+1602167589791	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 7688, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602167696822	Marionette	INFO	Stopped listening on port 63308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ cache file:" (new Error("", "(unknown module)"))
+1602167657180	Marionette	INFO	Listening on port 63469
+1602167657396	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602167698107	Marionette	INFO	Stopped listening on port 63469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602177567291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileAMGsF7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602177570699	Marionette	INFO	Listening on port 52467
+1602177570916	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602178198348	addons.xpi	ERROR	System addon update list error Error: got node name: parsererror, expected: updates
+1602178208475	Marionette	INFO	Stopped listening on port 52467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602177620981	Marionette	INFO	Listening on port 52627
+1602177621287	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+1602177630401	Marionette	INFO	Stopped listening on port 52627
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17544, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1602178085552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileERgx7e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602178088603	Marionette	INFO	Listening on port 52994
+1602178088683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602178208481	Marionette	INFO	Stopped listening on port 52994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602178141473	Marionette	INFO	Listening on port 53151
+1602178141799	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602178152030	Marionette	INFO	Stopped listening on port 53151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602178894992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofilefsIyp9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602178899968	Marionette	INFO	Listening on port 53787
+1602178900235	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602180101203	Marionette	INFO	Stopped listening on port 53787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602247925401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileI8FBig"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602247931335	Marionette	INFO	Listening on port 57833
+1602247931654	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602248490681	Marionette	INFO	Stopped listening on port 57833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+", "(unknown module)"))
+1602247964410	Marionette	INFO	Listening on port 57980
+1602247964885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602248492114	Marionette	INFO	Stopped listening on port 57980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+w Error("", "(unknown module)"))
+1602248165610	Marionette	INFO	Listening on port 58215
+1602248166071	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602248184904	Marionette	INFO	Stopped listening on port 58215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22752, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602598049231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileU6Sebz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602598054680	Marionette	INFO	Listening on port 64682
+1602598054998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1780 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://ssl.widgets.webengage.com/js/jquery/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1602598401895	Marionette	INFO	Stopped listening on port 64682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603396904154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\agree\\AppData\\Local\\Temp\\rust_mozprofileE1t3E1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603396910094	Marionette	INFO	Listening on port 54704
+1603396910399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.makemytrip.com/ line 1874 > injectedScript, line 1: ReferenceError: s is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
